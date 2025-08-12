@@ -1,4 +1,5 @@
-# Documentation to install vipre using product key already purchased for new users.
+# Step-by-Step: Reinstall VIPRE Advanced or Internet Security After a Computer Recovery
 
-My first project, i am so happy. Yippie
+Valuable information for the users.
+
 
